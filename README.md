@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @riahiFarah
-- 👀 I’m interested in programming and data analysis
 - 🌱 I’m currently a computer engineering student at the Higher Institute of Computer Science and Mathematics of Monastir 
 
 <!---
