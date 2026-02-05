@@ -1,6 +1,6 @@
 #  Hi, I’m Farah Riahi
 # 🎓 Computer Engineering Graduate from the Higher Institute of Computer Science and Mathematics of Monastir (ISIMM)
-# 💻 Junior Software Developer with hands-on experience in full-stack web development and data-driven applications.
+# 💻 Junior Software Developer with experience in full stack web development.
 
 I enjoy building practical projects using modern technologies and continuously improving my technical skills.
 
